@@ -1,0 +1,2 @@
+def findRepeatNumber(nums):
+    for 

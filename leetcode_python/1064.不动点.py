@@ -17,5 +17,5 @@ def fixedPoint2(A):
 
 print(fixedPoint2([-10,-5,0,3,7]))
 print(fixedPoint2([0,1,2,3,7]))
-print('fuck you')
+print('fuck you all')
 
